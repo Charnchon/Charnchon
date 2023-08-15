@@ -1,6 +1,6 @@
 ### This is my best PC ever :pleading_face:
 <html>
-    <img width="100%" src="https://raw.githubusercontent.com/Charnchon/Charnchon/main/crop_pc.jpg" />
+    <img style="border-radius: 6px;" width="100%" src="https://raw.githubusercontent.com/Charnchon/Charnchon/main/crop_pc_image.jpg" />
 </html>
 
 <!--

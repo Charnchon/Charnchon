@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img scr="[[![88977021_3561100033961358_8348802870165897216_n](https://github.com/Charnchon/Charnchon/assets/60136535/fe6e90a0-ce03-455a-8d9e-f9f2a147a6b3)](https://github.com/Charnchon/Charnchon/assets/60136535/fe6e90a0-ce03-455a-8d9e-f9f2a147a6b3)](https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/88977021_3561100033961358_8348802870165897216_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeEjjEqbW1Pg42rjNwJCJr_tXdTm6RDXgqRd1ObpENeCpFtsFn9javHIVjNGklJoY2t5qk9LzLH_3lgRAhIQNMud&_nc_ohc=LnLAVvC1TVIAX8hDmu5&_nc_ht=scontent-sin6-2.xx&oh=00_AfBIhMA_girNSuJ-cuA68bW91nnzLkLal94mzPPnNbjLdQ&oe=65028E39)" />
+<img scr="https://github.com/Charnchon/Charnchon/blob/main/88977021_3561100033961358_8348802870165897216_n.jpg?raw=true" />
 
 
 

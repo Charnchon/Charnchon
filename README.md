@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![88977021_3561100033961358_8348802870165897216_n](https://github.com/Charnchon/Charnchon/assets/60136535/fe6e90a0-ce03-455a-8d9e-f9f2a147a6b3)
+
+
 <!--
 **Charnchon/Charnchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
